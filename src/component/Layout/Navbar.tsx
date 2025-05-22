@@ -90,7 +90,7 @@ const Navbar = () => {
             ))}
           </ul>
 
-          <div className="flex gap-5 pt-4 border-t pt-5 text-[#07076D]">
+          <div className="flex gap-5 pt-4 border-t  text-[#07076D]">
             <a href="#" aria-label="Facebook">
               <Facebook className="hover:text-[#1877F2] transition duration-200 cursor-pointer" />
             </a>
